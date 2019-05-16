@@ -1,0 +1,8 @@
+.idea/*
+.DS_Store
+*/.DS_Store
+sites/default/files
+
+# Ignore configuration files that may contain sensitive information
+/sites/*/*settings*.php
+/sites/*/*services*.yml
